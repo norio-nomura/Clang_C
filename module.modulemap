@@ -1,0 +1,4 @@
+module Clang_C {
+  umbrella "clang-c"
+  module * { export * }
+}
